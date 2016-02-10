@@ -1,6 +1,6 @@
 # Exploratory Data Analysis Project 1
 
-This repo contains my files for the first course project of the October 2015 run of Exploratory Data Analysis by Coursera/Johns Hopkins University.
+This repo contains my files for the first course project of the February 2016 run of Exploratory Data Analysis by Coursera/Johns Hopkins University.
 
 The data come from the [Individual household electric power consumption Data Set](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption) from the UCI Machine Learning Repository.
 
